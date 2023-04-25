@@ -30,4 +30,4 @@ const person = {
 };
 
 console.log(person.result[0].name.common);
-console.log(person.result[0].age);
+console.log(person.result[0].isMale);
